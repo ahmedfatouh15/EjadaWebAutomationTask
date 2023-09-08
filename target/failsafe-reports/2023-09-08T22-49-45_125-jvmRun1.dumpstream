@@ -1,0 +1,64 @@
+# Created at 2023-09-08T22:49:56.338
+TestSet has not finished before stream error has appeared >> initializing exit by non-null configuration: DEFAULT
+java.io.EOFException
+	at java.base/java.io.DataInputStream.readInt(DataInputStream.java:398)
+	at org.apache.maven.surefire.booter.MasterProcessCommand.decode(MasterProcessCommand.java:115)
+	at org.apache.maven.surefire.booter.CommandReader$CommandRunnable.run(CommandReader.java:390)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+
+# Created at 2023-09-08T22:49:58.398
+Unexpected IOException: 6,1,Login feature,User Log in Successfully(Login feature),null,null,null
+
+
+# Created at 2023-09-08T22:49:58.400
+Unexpected IOException: 5,1,Purchase items from the site,User add items to cart(Purchase items from the site),null,null,null
+
+
+# Created at 2023-09-08T22:50:02.598
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-08T22:50:02.624
+Unexpected IOException with stream: 79.98
+
+# Created at 2023-09-08T22:50:02.624
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-08T22:50:02.624
+Unexpected IOException with stream: 49.99
+
+# Created at 2023-09-08T22:50:02.624
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-08T22:50:02.624
+Unexpected IOException with stream: 49.99
+
+# Created at 2023-09-08T22:50:02.624
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-08T22:50:02.624
+Unexpected IOException with stream: 29.99
+
+# Created at 2023-09-08T22:50:02.629
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-08T22:50:02.631
+Unexpected IOException with stream: 79.98
+
+# Created at 2023-09-08T22:50:02.631
+Unexpected IOException with stream: 
+
+
+# Created at 2023-09-08T22:50:02.929
+Unexpected IOException: 6,1,Purchase items from the site,User add items to cart(Purchase items from the site),null,null,null
+
+
+# Created at 2023-09-08T22:50:02.932
+Unexpected IOException: 2,1,org.apache.maven.surefire.junit4.JUnit4Provider,TestRunnerIT,null,null,null
+
+
