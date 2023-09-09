@@ -27,7 +27,7 @@ The project is using the page object model.
 ## Test Run
 In order to run the project there are three options, 
 1. Test Runners
-    * There are test runner file `TestRunner.java` that can be executed as a JUnit test
+    * There are test runner file `TestRunner.java` that can be executed as a `JUnit test`
 
 2. .bat file
     * `Parallel.bat` file in the root directory is for executing the app in parallel by executing the file
