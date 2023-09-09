@@ -32,7 +32,7 @@ In order to run the project there are three options,
 2. .bat file
     * `Parallel.bat` file in the root directory is for executing the app in parallel by executing the file
 3. pom file
-    * `pom.xml` file in the root directory is designed to execute the app using `maven failsafe pluing` in parallel mode
+    * `pom.xml` file in the root directory is designed to execute the app using `maven failsafe pluing` in parallel mode by running the file as `Maven Verify` or `Maven Install`
 ## Reporting
 Reporting in the project is exported automatically to provide the tests results at the `/target` directory using mainly two reporting plugins:
 
